@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-24T08:40:32 IST" name="Default suite" finished-at="2022-11-24T08:40:32 IST" duration-ms="271">
+    <groups>
+    </groups>
+    <test started-at="2022-11-24T08:40:32 IST" name="Default test" finished-at="2022-11-24T08:40:32 IST" duration-ms="271">
+      <class name="sampleTests.OrganizationTest">
+        <test-method signature="organizationTest()[pri:0, instance:sampleTests.OrganizationTest@636be97c]" started-at="2022-11-24T08:40:32 IST" name="organizationTest" finished-at="2022-11-24T08:40:32 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationTest -->
+      </class> <!-- sampleTests.OrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
