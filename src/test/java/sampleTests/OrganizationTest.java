@@ -9,4 +9,9 @@ public void organizationTest()
 {
 	System.out.println("org created succesfully");
 }
+@Test
+public void orgTest()
+{
+	System.out.println("Deleted succesful");
+}
 }
